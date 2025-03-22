@@ -1,0 +1,12 @@
+ID,Name,Age,Salary,Department,Joining_Date
+101,Alice,25,50000.0,HR,2018-06-12
+102,Bob,130,,IT,2020-09-18
+103,Charlie,-5,70000.0,Finance,2019-03-25
+104,David,30,100000.0,HR,2017-11-05
+105,Eve,28,,Marketing,2021-02-15
+106,Frank,40,85000.0,IT,2015-07-20
+107,Gina,abc,60000.0,Sales,2016-08-30
+108,Henry,35,55000.0,HR,not_a_date
+109,Ivy,27,75000.0,Finance,2019-11-10
+110,Jack,,62000.0,IT,2022-05-01
+111,Kate,23,-3000.0,Marketing,2023-07-08
